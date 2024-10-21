@@ -1,7 +1,7 @@
 # tests/conftest.py
 
 import pytest
-from faker import Faker # type: ignore
+from faker import Faker
 
 # Initialize Faker
 fake = Faker()
