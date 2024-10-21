@@ -1,7 +1,7 @@
 # calculator/main.py
 import os
 import logging
-from dotenv import load_dotenv  # type: ignore
+from dotenv import load_dotenv
 from calculator import Calculator
 
 # Load environment variables from .env file
